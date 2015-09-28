@@ -1,0 +1,25 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+#main { margin-top:20px;}
+
+.page-footer a , .footer-copyright div{ color:#000;}
+
+.gform_heading>.gform_title { display:none;}
+
+.width-common-class { margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #ddd;}
+
+.gallery-text { clear:both; margin:20px 0; float:left; width:100%;}
+#wpsimplegallery_container { margin-left:-7px;}
